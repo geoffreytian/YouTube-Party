@@ -1,0 +1,32 @@
+{
+  "name": "node-js-template",
+  "version": "1.0.0",
+  "description": "web app template",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "ejs": "^2.7.4",
+    "express": "^4.17.1",
+    "jquery": "^3.5.1",
+    "nodemon": "^2.0.4",
+    "tape": "^4.13.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geoffreytian/node-js-template"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Geoffrey Tian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geoffreytian/node-js-template/issues"
+  },
+  "homepage": "https://github.com/geoffreytian/node-js-template#readme"
+}
