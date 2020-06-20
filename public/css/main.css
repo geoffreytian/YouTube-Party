@@ -5,6 +5,14 @@ body {
   padding: 40px 15px;
   text-align: center;
 }
-#headshot {
-    width: 500px;
+
+.container {
+    text-align: center;
+
+}
+
+#player {
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
 }
